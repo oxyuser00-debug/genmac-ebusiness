@@ -119,7 +119,7 @@ export default function DashboardLayout() {
       {/* Sidebar */}
       <aside className="w-64 bg-white shadow-lg p-5 flex flex-col justify-between">
         <div>
-          <h2 className="text-2xl font-bold text-blue-700 mb-8">BUSINESS OWNER DASHBOARD</h2>
+          <h2 className="text-2xl font-bold text-blue-700 mb-8">ePermit Owner</h2>
           <nav className="space-y-4">
             {navLinks.map((link) => (
               <Link
