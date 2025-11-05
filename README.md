@@ -1,4 +1,4 @@
-# GenMac Application — README
+# GenMac eBusiness Application — README
 
 > Quick setup guide for running the backend and frontend locally.
 
@@ -164,3 +164,4 @@ npm run dev
 Add your project license or notes here if needed.
 
 ---
+
