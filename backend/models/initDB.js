@@ -98,6 +98,6 @@ import bcrypt from "bcrypt";
     [adminPass, staffPass, ownerPass]
   );
 
-  console.log("✅ Database initialized with users, applications (with permit_file), documents, staff actions, and payments tables.");
+  console.log("✅ Database initialized with users, applications, documents, staff actions, and payments tables.");
   await db.close();
 })();
