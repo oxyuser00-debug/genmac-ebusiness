@@ -164,5 +164,3 @@ npm run dev
 Add your project license or notes here if needed.
 
 ---
-
-If you want this README exported as `README.md` file inside the repo (or need a `README` for just the `backend/` or `frontend/`), tell me where to save it and I will generate it for you.
